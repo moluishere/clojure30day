@@ -1,0 +1,8 @@
+# Clojure CLI / tooling caches
+.cpcache/
+.clj-kondo/.cache/
+.lsp/.cache/
+.nrepl-port
+
+# Editor / OS
+.DS_Store
